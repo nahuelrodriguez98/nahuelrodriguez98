@@ -1,12 +1,9 @@
 # Hola, soy Nahuel
 
----
-
 ## Desarrollador Web Full-Stack
 
----
 
-¡Hola! Mi nombre es Nahuel, y soy desarrollador full-stack.
+Mi nombre es Nahuel y soy desarrollador Full-Stack
 
 Realicé el BootCamp de [ALURA](https://www.aluracursos.com/) de Desarrollador Front-End.
 
