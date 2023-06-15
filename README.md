@@ -2,7 +2,7 @@
 
 ---
 
-## Desarrollador Web FullStack
+## Fullstack developer | JavaScript | React.JS | Node | 
 
 ---
 
