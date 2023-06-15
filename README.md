@@ -1,20 +1,21 @@
-# Hola, soy Nahuel
+# Hola!, soy Nahuel
 
 ---
 
-## Desarrollador Web Front-End
+## Desarrollador Web FullStack
 
 ---
 
-Mi nombre es Nahuel y soy desarrollador Front-End
+Mi nombre es Nahuel Rodriguez, un apasionado FullStack Developer de 24 años de edad, ubicado en la ciudad de Santa Fe, Argentina. Me dedico apasionadamente a crear soluciones tecnológicas y desarrollar aplicaciones innovadoras.
+Con una sólida formación académica y una pasión por la programación, he adquirido una amplia experiencia en el desarrollo web y en el manejo de diversas tecnologías.
 
 Realicé el BootCamp de [ALURA](https://www.aluracursos.com/) de Desarrollador Front-End.
 
-Estoy asistinedo al BootCamp de Desarrollador Web Fullstack en [HENRY](https://www.soyhenry.com/) y al mismo tiempo, adquiero conocimientos de forma autodidacta.
+Finalize BootCamp de Desarrollador Web Fullstack en [HENRY](https://www.soyhenry.com/) y al mismo tiempo, adquiero conocimientos de forma autodidacta.
 
-Mi interés y pasión es el desarrollo web, es a lo que quiero dedicar mi vida profesional.
+Mi enfoque principal es crear experiencias de usuario intuitivas y atractivas, centrándome en la usabilidad y el diseño limpio. Soy un aprendiz rápido, siempre abierto a nuevos desafíos y dispuesto a ampliar mis conocimientos en cualquier área que sea necesaria para lograr los objetivos del proyecto. El desarrollo web, es a lo que quiero dedicar mi vida profesional.
 
-En este momento me encuentro en busqueda de mi primer experiencia como desarrollador. 💻
+¡Espero poder contribuir al éxito de tu empresa y trabajar juntos para alcanzar nuevos horizontes en el mundo del desarrollo web!
 
 ------
 
