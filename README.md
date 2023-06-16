@@ -8,13 +8,11 @@
 
 Mi nombre es Nahuel Rodriguez, un apasionado desarrollador Fullstack de 24 años de edad, con sede en la ciudad de Santa Fe, Argentina. Mi principal objetivo es crear soluciones tecnológicas y desarrollar aplicaciones innovadoras que marquen la diferencia.
 
-Poseo una sólida formación académica y una pasión inquebrantable por la programación. A lo largo de mi trayectoria, he adquirido una amplia experiencia en el desarrollo web y he trabajado con diversas tecnologías de vanguardia.
+Me he formado en el BootCamp de [ALURA](https://www.aluracursos.com/) como Desarrollador Front-End, donde adquirí habilidades fundamentales para crear interfaces de usuario.
 
-Me he formado en el BootCamp de [ALURA](https://www.aluracursos.com/) como Desarrollador Front-End, donde adquirí habilidades fundamentales para crear interfaces de usuario sorprendentes.
+Asi mismo he completado el BootCamp de Desarrollador Web Fullstack en  [HENRY](https://www.soyhenry.com/), donde amplié mis conocimientos y habilidades técnicas de forma integral. Siempre estoy dispuesto a aprender de forma autodidacta para mantenerme actualizado en las últimas tendencias tecnológicas.
 
-También he completado el BootCamp de Desarrollador Web Fullstack en  [HENRY](https://www.soyhenry.com/), donde amplié mis conocimientos y habilidades técnicas de forma integral. Además, siempre estoy dispuesto a aprender de forma autodidacta para mantenerme actualizado en las últimas tendencias tecnológicas.
-
-Mi enfoque principal se centra en crear experiencias de usuario intuitivas y atractivas, poniendo un fuerte énfasis en la usabilidad y el diseño limpio. Me considero un aprendiz rápido, siempre abierto a nuevos desafíos y dispuesto a expandir mis conocimientos en cualquier área que sea necesaria para alcanzar los objetivos del proyecto. La programación web es mi pasión y estoy dedicado a seguir creciendo en este campo.
+Mi enfoque principal es crear experiencias de usuario intuitivas y atractivas, poniendo un fuerte énfasis en la usabilidad y el diseño limpio. Me considero un aprendiz rápido, siempre abierto a nuevos desafíos y dispuesto a expandir mis conocimientos en cualquier área que sea necesaria para alcanzar los objetivos del proyecto. La programación web es mi pasión y estoy dedicado a seguir creciendo en este campo.
 
 Estoy emocionado de poder contribuir al éxito de tu empresa y trabajar juntos para alcanzar nuevos horizontes en el mundo del desarrollo web. ¡No dudes en contactarme para comenzar a crear cosas increíbles juntos!
 
